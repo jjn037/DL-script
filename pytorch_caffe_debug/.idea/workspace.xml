@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13419b53-b09a-463e-86de-3afb659ef499" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pytorch-classification/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pytorch-classification/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pytorch-classification/.idea/pytorch-classification.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytorch-classification/imagenet.py" afterPath="$PROJECT_DIR$/pytorch-classification/imagenet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pytorch-classification/utils/__init__.py" afterPath="$PROJECT_DIR$/pytorch-classification/utils/__init__.py" />
+    </list>
+    <ignored path="pytorch-classification.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/debug$Unittests_in_imagetnet_master_py.coverage" NAME="Unittests in imagetnet_master.py Coverage Results" MODIFIED="1501659477110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pytorch-classification" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="eval_rfcn.py" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/eval_rfcn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2558">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draw_rpn.py" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/draw_rpn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frcnn_proposal_target_layer.cpp" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_proposal_target_layer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="59" column="38" lean-forward="false" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frcnn_proposal_layer.cpp" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_proposal_layer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="105" column="74" lean-forward="false" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faster.json" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/faster.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rfcn-py-version.prototxt" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn-py-version.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1054">
+              <caret line="1429" column="1" lean-forward="false" selection-start-line="1429" selection-start-column="1" selection-end-line="1429" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solver.prototxt" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/solver.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rfcn_end2end_ohem.yml" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn_end2end_ohem.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.sh" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/train.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proposal_target_layer.py" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/rpn/proposal_target_layer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="149" column="44" lean-forward="false" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+              <folding>
+                <element signature="e#265#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proposal_layer.py" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/rpn/proposal_layer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="136" column="38" lean-forward="false" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation_ms.py" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/evaluation_ms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="107" column="16" lean-forward="false" selection-start-line="107" selection-start-column="16" selection-end-line="108" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rpn_deploy_rfcn_resnet18.prototxt" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rpn_deploy_rfcn_resnet18.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="1171" column="10" lean-forward="false" selection-start-line="1171" selection-start-column="10" selection-end-line="1171" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy_rpn_ohem.prototxt" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/ohem/deploy_rpn_ohem.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="1438" column="2" lean-forward="false" selection-start-line="1438" selection-start-column="2" selection-end-line="1438" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rfcn_res18.prototxt" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn_res18.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10729">
+              <caret line="880" column="26" lean-forward="false" selection-start-line="880" selection-start-column="26" selection-end-line="880" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faster_resnet18-fc2-ohem.prototxt" pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/ohem/faster_resnet18-fc2-ohem.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="1515" column="29" lean-forward="true" selection-start-line="1515" selection-start-column="29" selection-end-line="1515" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bbox_targets_data</find>
+      <find>dilation</find>
+      <find>rpn_normalize</find>
+      <find>rpn_normalize_stds</find>
+      <find>bbox_normalize_targets</find>
+      <find>dila</find>
+      <find>bbox_target</find>
+      <find>feat_stride_</find>
+      <find>RPN_SCORES</find>
+      <find>rpn_scores</find>
+      <find>cfg.TEST.RPN_SCORES</find>
+      <find>roi_feature</find>
+      <find>ms_info</find>
+      <find>rpn_process</find>
+      <find>bbox_transform_inv</find>
+      <find>if i</find>
+      <find>get_file_list</find>
+      <find>bbox_outside_weights</find>
+      <find>rpn_nor</find>
+      <find>bbox_normalize_stds</find>
+      <find>rpn_normalize_targets</find>
+      <find>config_n_anchors_</find>
+      <find>label</find>
+      <find>ok</find>
+      <find>cout</find>
+      <find>245</find>
+      <find>batch_size</find>
+      <find>inf</find>
+      <find>rois_data</find>
+      <find>batch_rcnn_process</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pytorch-classification" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_anchor_target_layer.cu" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_proposal_layer.cu" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/tools/train_net.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_roi_data_layer.cu" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/frcnn_roi_data_layer.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_roi_data_layer.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/lib/rpn/proposal_layer.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/lib/fast_rcnn/bbox_transform.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/fast_rcnn/bbox_transform.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/util/frcnn_bbox_transform.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/fast_rcnn/config.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/models/fastener/scores.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/val.txt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rec_pre.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/scores.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/train_multy_gpu.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/proposal_layer.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/proposal_layer.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/proposal.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/proto/caffe.proto" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/draw.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/frcnn_proposal_target_layer.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn_res18.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/models/fastener/evaluation_ms.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_proposal_layer.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/util/frcnn_param.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/util/frcnn_param.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/ohem/deploy_rpn_ohem.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rcnn_deploy_rfcn_resnet18.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/util/frcnn_file.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/test_roi.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/include/caffe/FRCNN/tset_roi.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/test_roi_data/test_roi.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_roi_data_layer.hpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/lib/fast_rcnn/config.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_anchor_target_layer.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/test_roi_data/faster_resnet18-fc2-ohem.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/eval_rfcn.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/rpn/proposal_layer.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/models/fastener/train.sh" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/caffe-priv/src/caffe/FRCNN/frcnn_proposal_target_layer.cpp" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/ohem/faster_resnet18-fc2-ohem.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/faster.json" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/train.sh" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/rpn/proposal_target_layer.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/evaluation_ms.py" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rpn_deploy_rfcn_resnet18.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn-py-version.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/solver.prototxt" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/rfcn/rfcn_end2end_ohem.yml" />
+        <option value="&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/faster_C/model/draw_rpn.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2671167" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in imagetnet_master.py">
+    <configuration default="false" name="Unittests in imagetnet_master.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/imagetnet_master.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="pytorch-classification" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in imagetnet_master.py" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in imagetnet_master.py" />
+      </list>
+    </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-classification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13419b53-b09a-463e-86de-3afb659ef499" name="Default" comment="" />
+      <created>1498723941498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498723941498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 10h 37m 57s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 10h 38m 43s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 11h 03m 25s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 11h 04m 20s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 11h 04m 24s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 11h 30m 37s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 14h 04m 40s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 15h 36m 32s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 15h 37m 52s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_imagetnet_master_py - 2017.08.02 at 15h 37m 57s.xml">
+      <configuration name="Unittests in imagetnet_master.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.124657534" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17671233" sideWeight="0.49353796" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29863015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14383562" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24878837" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2358643" sideWeight="0.49452055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32148626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2358643" sideWeight="0.50547945" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.124657534" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17671233" sideWeight="0.49353796" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29863015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14383562" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31744748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2358643" sideWeight="0.49452055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32148626" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2358643" sideWeight="0.50547945" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;a700d573-9c06-4096-a8ec-994e5d64a27d&gt;/home/yanglu/workspace/fastener_det/py-faster-rcnn-0302/tools/train_net.py</url>
+          <line>11</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;a700d573-9c06-4096-a8ec-994e5d64a27d&gt;/home/yanglu/workspace/fastener_det/py-faster-rcnn-0302/lib/datasets/fastener_trainval.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/home/priv-lab1/workspace/py-faster-rcnn0822/lib/fast_rcnn/train.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/home/priv-lab1/workspace/py-faster-rcnn/tools/train_net.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/fast_rcnn/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;60c92639-e420-4f83-b875-764540e81c6c&gt;/workspace/fastener_det/lib/rpn/proposal_layer.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="142" column="38" lean-forward="false" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagetnet_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="126" column="18" lean-forward="false" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/res_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="142" column="38" lean-forward="false" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="235" column="20" lean-forward="false" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagetnet_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="126" column="18" lean-forward="true" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/res_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/torch/nn/modules/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7854">
+          <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="331" column="17" lean-forward="true" selection-start-line="331" selection-start-column="17" selection-end-line="331" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagetnet_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="242" column="0" lean-forward="false" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/torch/nn/modules/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="114" column="28" lean-forward="false" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/__init__.py" />
+    <entry file="file:///Library/Python/2.7/site-packages/torchvision/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/cifar/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/models/cifar/resnet.py" />
+    <entry file="file:///Library/Python/2.7/site-packages/torch/nn/modules/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7854">
+          <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="103" column="67" lean-forward="false" selection-start-line="103" selection-start-column="67" selection-end-line="103" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/datasets/folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagetnet_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="126" column="18" lean-forward="false" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/res_18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/res/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="235" column="20" lean-forward="false" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="142" column="38" lean-forward="false" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/torchvision/transforms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytorch-classification/cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="317" column="31" lean-forward="false" selection-start-line="317" selection-start-column="31" selection-end-line="317" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

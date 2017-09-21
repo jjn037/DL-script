@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60c92639-e420-4f83-b875-764540e81c6c" name="priv-lab1" url="http://10.108.246.68">
+        <fileTransfer host="10.108.246.68" port="22" rootFolder="/home/priv-lab1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
